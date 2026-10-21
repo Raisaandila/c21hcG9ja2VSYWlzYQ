@@ -12,111 +12,105 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Raisa =====
-[1]Raisa       |09:03:27 | 20-10-2026| login OK @raisaandila | score=1540 rank=4541
-[1]Raisa       |09:03:27 | 20-10-2026| serverTime=2026-10-20T09:03:27.000Z local=2026-10-20T09:03:27.817Z
+[1]Raisa       |09:02:57 | 21-10-2026| login OK @raisaandila | score=1610 rank=4413
+[1]Raisa       |09:02:57 | 21-10-2026| serverTime=2026-10-21T09:02:57.000Z local=2026-10-21T09:02:57.737Z
 --> [1]Raisa menjalankan: Claim Daily
-[1]Raisa       |09:03:29 | 20-10-2026| daily: OK +10 poin score=1550
+[1]Raisa       |09:02:58 | 21-10-2026| daily: OK +10 poin score=1620
 --> [1]Raisa menjalankan: Auto All Tasks (6 pending)
-[1]Raisa       |09:03:31 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/raisaandila/status/2112469408644140705
-[1]Raisa       |09:03:31 | 20-10-2026| delay 10s...
-[1]Raisa       |09:03:44 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/raisaandila/status/2112469412708128183
-[1]Raisa       |09:03:44 | 20-10-2026| delay 10s...
-[1]Raisa       |09:03:57 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/raisaandila/status/2112469562155445731
-[1]Raisa       |09:03:57 | 20-10-2026| delay 10s...
-[1]Raisa       |09:04:09 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/raisaandila/status/2112469455877005750
-[1]Raisa       |09:04:09 | 20-10-2026| delay 10s...
-[1]Raisa       |09:04:21 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/raisaandila/status/2112469401097345588
-[1]Raisa       |09:04:21 | 20-10-2026| delay 10s...
-[1]Raisa       |09:04:33 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/raisaandila/status/2112469703235184487
-[1]Raisa       |09:04:33 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Raisa       |09:04:35 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/raisaandila/status/2112469721132617697
+[1]Raisa       |09:03:00 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/raisaandila/status/2112831391955167053
+[1]Raisa       |09:03:00 | 21-10-2026| delay 10s...
+[1]Raisa       |09:03:12 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/raisaandila/status/2112831663264933209
+[1]Raisa       |09:03:12 | 21-10-2026| delay 10s...
+[1]Raisa       |09:03:24 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/raisaandila/status/2112831734928754744
+[1]Raisa       |09:03:24 | 21-10-2026| delay 10s...
+[1]Raisa       |09:03:36 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/raisaandila/status/2112831789410727703
+[1]Raisa       |09:03:36 | 21-10-2026| delay 10s...
+[1]Raisa       |09:03:49 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/raisaandila/status/2112831696664997946
+[1]Raisa       |09:03:49 | 21-10-2026| delay 10s...
+[1]Raisa       |09:04:01 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Raisa       |09:04:01 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Raisa       |09:04:04 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/raisaandila/status/2112831682186154121
 --> [1]Raisa menjalankan: Watch Anime
-[1]Raisa       |09:04:36 | 20-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Raisa       |09:04:36 | 20-10-2026| watch [1/3] farming oshi-captains-hat...
-[1]Raisa       |09:04:38 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Raisa       |09:04:45 | 20-10-2026| watch oshi-captains-hat: 5% (5.23/92.00s)
-[1]Raisa       |09:04:52 | 20-10-2026| watch oshi-captains-hat: 12% (11.10/92.00s)
-[1]Raisa       |09:04:59 | 20-10-2026| watch oshi-captains-hat: 19% (17.62/92.00s)
-[1]Raisa       |09:05:05 | 20-10-2026| watch oshi-captains-hat: 25% (23.54/92.00s)
-[1]Raisa       |09:05:11 | 20-10-2026| watch oshi-captains-hat: 31% (29.12/92.00s)
-[1]Raisa       |09:05:16 | 20-10-2026| watch oshi-captains-hat: heartbeat GAGAL http=503
-[1]Raisa       |09:05:21 | 20-10-2026| watch [2/3] farming oshi-rainbow-lighthouse...
-[1]Raisa       |09:05:27 | 20-10-2026| watch oshi-rainbow-lighthouse: start GAGAL http=503
-[1]Raisa       |09:05:32 | 20-10-2026| watch [3/3] farming bakeru-ikesou-jan-mv...
-[1]Raisa       |09:05:34 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Raisa       |09:05:40 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.24/181.00s)
-[1]Raisa       |09:05:47 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.74/181.00s)
-[1]Raisa       |09:05:53 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.63/181.00s)
-[1]Raisa       |09:06:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.17/181.00s)
-[1]Raisa       |09:06:07 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.84/181.00s)
-[1]Raisa       |09:06:14 | 20-10-2026| watch bakeru-ikesou-jan-mv: 19% (35.02/181.00s)
-[1]Raisa       |09:06:20 | 20-10-2026| watch bakeru-ikesou-jan-mv: 22% (40.81/181.00s)
-[1]Raisa       |09:06:26 | 20-10-2026| watch bakeru-ikesou-jan-mv: 25% (46.32/181.00s)
-[1]Raisa       |09:06:32 | 20-10-2026| watch bakeru-ikesou-jan-mv: 28% (51.90/181.00s)
-[1]Raisa       |09:06:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 31% (57.65/181.00s)
-[1]Raisa       |09:06:46 | 20-10-2026| watch bakeru-ikesou-jan-mv: 35% (63.78/181.00s)
-[1]Raisa       |09:06:52 | 20-10-2026| watch bakeru-ikesou-jan-mv: 38% (69.69/181.00s)
-[1]Raisa       |09:06:58 | 20-10-2026| watch bakeru-ikesou-jan-mv: 41% (75.46/181.00s)
-[1]Raisa       |09:07:05 | 20-10-2026| watch bakeru-ikesou-jan-mv: 44% (81.15/181.00s)
-[1]Raisa       |09:07:11 | 20-10-2026| watch bakeru-ikesou-jan-mv: 47% (86.72/181.00s)
-[1]Raisa       |09:07:17 | 20-10-2026| watch bakeru-ikesou-jan-mv: 50% (92.28/181.00s)
-[1]Raisa       |09:07:23 | 20-10-2026| watch bakeru-ikesou-jan-mv: 54% (98.19/181.00s)
-[1]Raisa       |09:07:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 57% (103.75/181.00s)
-[1]Raisa       |09:07:37 | 20-10-2026| watch bakeru-ikesou-jan-mv: 60% (109.35/181.00s)
-[1]Raisa       |09:07:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 63% (115.51/181.00s)
-[1]Raisa       |09:07:49 | 20-10-2026| watch bakeru-ikesou-jan-mv: 66% (121.12/181.00s)
-[1]Raisa       |09:07:55 | 20-10-2026| watch bakeru-ikesou-jan-mv: 70% (127.00/181.00s)
-[1]Raisa       |09:08:02 | 20-10-2026| watch bakeru-ikesou-jan-mv: 73% (132.53/181.00s)
-[1]Raisa       |09:08:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 76% (138.35/181.00s)
-[1]Raisa       |09:08:14 | 20-10-2026| watch bakeru-ikesou-jan-mv: 79% (143.92/181.00s)
-[1]Raisa       |09:08:20 | 20-10-2026| watch bakeru-ikesou-jan-mv: 82% (149.43/181.00s)
-[1]Raisa       |09:08:27 | 20-10-2026| watch bakeru-ikesou-jan-mv: 85% (155.04/181.00s)
-[1]Raisa       |09:08:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 89% (161.10/181.00s)
-[1]Raisa       |09:08:40 | 20-10-2026| watch bakeru-ikesou-jan-mv: 92% (166.69/181.00s)
-[1]Raisa       |09:08:40 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (166.69/181.00s)
+[1]Raisa       |09:04:05 | 21-10-2026| watch: 2 video belum completed: oshi-captains-hat,oshi-rainbow-lighthouse
+[1]Raisa       |09:04:05 | 21-10-2026| watch [1/2] farming oshi-captains-hat...
+[1]Raisa       |09:04:06 | 21-10-2026| watch oshi-captains-hat: mulai dari 0 (record 29.1s diabaikan)
+[1]Raisa       |09:04:06 | 21-10-2026| watch oshi-captains-hat: 31% (29.12/92.00s)
+[1]Raisa       |09:04:13 | 21-10-2026| watch oshi-captains-hat: 31% (29.12/92.00s)
+[1]Raisa       |09:04:19 | 21-10-2026| watch oshi-captains-hat: 31% (29.12/92.00s)
+[1]Raisa       |09:04:25 | 21-10-2026| watch oshi-captains-hat: 31% (29.12/92.00s)
+[1]Raisa       |09:04:31 | 21-10-2026| watch oshi-captains-hat: 31% (29.12/92.00s)
+[1]Raisa       |09:04:38 | 21-10-2026| watch oshi-captains-hat: 31% (29.12/92.00s)
+[1]Raisa       |09:04:44 | 21-10-2026| watch oshi-captains-hat: 36% (33.33/92.00s)
+[1]Raisa       |09:04:50 | 21-10-2026| watch oshi-captains-hat: 42% (38.78/92.00s)
+[1]Raisa       |09:04:56 | 21-10-2026| watch oshi-captains-hat: 48% (44.17/92.00s)
+[1]Raisa       |09:05:03 | 21-10-2026| watch oshi-captains-hat: 54% (49.68/92.00s)
+[1]Raisa       |09:05:09 | 21-10-2026| watch oshi-captains-hat: 60% (55.81/92.00s)
+[1]Raisa       |09:05:15 | 21-10-2026| watch oshi-captains-hat: 66% (61.52/92.00s)
+[1]Raisa       |09:05:21 | 21-10-2026| watch oshi-captains-hat: 72% (66.89/92.00s)
+[1]Raisa       |09:05:27 | 21-10-2026| watch oshi-captains-hat: 78% (72.33/92.00s)
+[1]Raisa       |09:05:34 | 21-10-2026| watch oshi-captains-hat: 84% (78.06/92.00s)
+[1]Raisa       |09:05:40 | 21-10-2026| watch oshi-captains-hat: 91% (83.85/92.00s)
+[1]Raisa       |09:05:40 | 21-10-2026| watch oshi-captains-hat: COMPLETED (83.85/92.00s)
+[1]Raisa       |09:05:45 | 21-10-2026| watch [2/2] farming oshi-rainbow-lighthouse...
+[1]Raisa       |09:05:46 | 21-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Raisa       |09:05:53 | 21-10-2026| watch oshi-rainbow-lighthouse: 5% (5.12/87.00s)
+[1]Raisa       |09:05:59 | 21-10-2026| watch oshi-rainbow-lighthouse: 12% (11.07/87.00s)
+[1]Raisa       |09:06:05 | 21-10-2026| watch oshi-rainbow-lighthouse: 18% (16.44/87.00s)
+[1]Raisa       |09:06:11 | 21-10-2026| watch oshi-rainbow-lighthouse: 25% (21.91/87.00s)
+[1]Raisa       |09:06:17 | 21-10-2026| watch oshi-rainbow-lighthouse: 31% (27.39/87.00s)
+[1]Raisa       |09:06:24 | 21-10-2026| watch oshi-rainbow-lighthouse: 38% (33.16/87.00s)
+[1]Raisa       |09:06:32 | 21-10-2026| watch oshi-rainbow-lighthouse: 45% (39.40/87.00s)
+[1]Raisa       |09:06:38 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.53/87.00s)
+[1]Raisa       |09:06:45 | 21-10-2026| watch oshi-rainbow-lighthouse: 59% (51.64/87.00s)
+[1]Raisa       |09:06:51 | 21-10-2026| watch oshi-rainbow-lighthouse: 66% (57.63/87.00s)
+[1]Raisa       |09:06:57 | 21-10-2026| watch oshi-rainbow-lighthouse: 72% (63.08/87.00s)
+[1]Raisa       |09:07:03 | 21-10-2026| watch oshi-rainbow-lighthouse: 78% (68.69/87.00s)
+[1]Raisa       |09:07:10 | 21-10-2026| watch oshi-rainbow-lighthouse: 85% (74.44/87.00s)
+[1]Raisa       |09:07:16 | 21-10-2026| watch oshi-rainbow-lighthouse: 92% (80.18/87.00s)
+[1]Raisa       |09:07:16 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (80.18/87.00s)
 --> [1]Raisa menjalankan: Read Article
-[1]Raisa       |09:08:41 | 20-10-2026| news: 27/27 artikel selesai dibaca
-[1]Raisa       |09:08:42 | 20-10-2026| mint eligibility: {"userId":"1618330673902915585","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@raisaaandilaa","status":"submitted","revision":"60c51c51-a8b0-4337-bcaa-1400cf22
-[1]Raisa       |09:08:42 | 20-10-2026| news: semua artikel sudah dibaca
+[1]Raisa       |09:07:18 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Raisa       |09:07:18 | 21-10-2026| mint eligibility: {"userId":"1618330673902915585","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@raisaaandilaa","status":"submitted","revision":"60c51c51-a8b0-4337-bcaa-1400cf22
+[1]Raisa       |09:07:24 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Raisa menjalankan: Quiz Anime
-[1]Raisa       |09:08:43 | 20-10-2026| quiz ep1: sudah dijawab
-[1]Raisa       |09:08:43 | 20-10-2026| quiz ep2: sudah dijawab
-[1]Raisa       |09:08:43 | 20-10-2026| quiz ep3: sudah dijawab
-[1]Raisa       |09:08:43 | 20-10-2026| quiz ep4: sudah dijawab
-[1]Raisa       |09:08:43 | 20-10-2026| quiz ep5: sudah dijawab
-[1]Raisa       |09:08:43 | 20-10-2026| quiz ep6: sudah dijawab
+[1]Raisa       |09:07:27 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Raisa       |09:07:27 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Raisa       |09:07:27 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Raisa       |09:07:27 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Raisa       |09:07:27 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Raisa       |09:07:27 | 21-10-2026| quiz ep6: sudah dijawab
 --> [1]Raisa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Raisa       |09:08:45 | 20-10-2026| music: kedua misi sudah tercapai, stop
-[1]Raisa       |09:08:45 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Raisa       |09:08:45 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Raisa       |09:08:45 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Raisa       |09:07:30 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Raisa       |09:07:32 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Raisa       |09:07:32 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Raisa       |09:07:32 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Raisa menjalankan: Claim Missions
-[1]Raisa       |09:08:46 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Raisa       |09:08:46 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Raisa       |09:08:46 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Raisa       |09:07:33 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Raisa       |09:07:33 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Raisa       |09:07:33 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Raisa menjalankan: Check Eligibility
 
 --- eligibility [1]Raisa ---
-  @raisaandila | score=1540 rank=4541
-  tasks    [##################--] 73/79
+  @raisaandila | score=1610 rank=4413
+  tasks    [###################-] 74/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 20/17
+  watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Raisa menjalankan: Read Manga
-[1]Raisa       |09:08:50 | 20-10-2026| manga: 0/13 chapter belum completed
+[1]Raisa       |09:07:38 | 21-10-2026| manga: 0/13 chapter belum completed
 --> [1]Raisa menjalankan: Get Gift
-[1]Raisa       |09:08:50 | 20-10-2026| gift: 0/4 belum diterima
+[1]Raisa       |09:07:38 | 21-10-2026| gift: 0/4 belum diterima
 --> [1]Raisa menjalankan: Setup Profile
-[1]Raisa       |09:08:51 | 20-10-2026| profile: bio="https://x.com/raisaandila" fav=oshi rewardAt=1791681741
-[1]Raisa       |09:08:51 | 20-10-2026| profile: bonus sudah diklaim, skip
+[1]Raisa       |09:07:39 | 21-10-2026| profile: bio="https://x.com/raisaandila" fav=oshi rewardAt=1791681741
+[1]Raisa       |09:07:39 | 21-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Raisa menjalankan: Bind Wallet
-[1]Raisa       |09:08:52 | 20-10-2026| wallet: sudah terikat 6hDxuULx6d... (solana)
+[1]Raisa       |09:07:39 | 21-10-2026| wallet: sudah terikat 6hDxuULx6d... (solana)
 
 == RINGKASAN ==
-- Raisa: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Raisa: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
